@@ -1,2 +1,0 @@
-# Bio-Esfera
-Nuevo proyecto
